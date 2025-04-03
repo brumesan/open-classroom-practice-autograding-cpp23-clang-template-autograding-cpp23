@@ -13,7 +13,7 @@ export int mul(int a, int b);
 
 export int add(int a, int b)
 {
-   return a + b; // TODO: fix
+   return a + b; // TODO: fi
 }
 
 // Exercise 2: implements function 'mul', that multiplies two numbers
